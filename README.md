@@ -405,7 +405,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Reversing](https://github.com/tylerha97/awesome-reversing)
 * [Security](https://github.com/paulveillard/cybersecurity)
 * [Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
-* [Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
+* [Threat Detection](https://github.com/paulveillard/cybersecurity-threat-detection)
 * [Threat Intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)
 
 
