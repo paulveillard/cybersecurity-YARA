@@ -406,7 +406,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [Security](https://github.com/paulveillard/cybersecurity)
 * [Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 * [Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
-* [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+* [Threat Intelligence](https://github.com/paulveillard/cybersecurity-threat-intelligence)
 
 
 **[`^        back to top        ^`](#)**
