@@ -4,7 +4,7 @@
 > An ongoing collection of awesome tools and frameworks, best security software practices, libraries, learning tutorials, frameworks, academic and practical resources about YARA in cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-### Contents
+## Table of Contents
 
 * [Rules](#rules)
 * [Tools](#tools)
@@ -403,7 +403,7 @@ We're aggregating the Twitter handles for anyone involved with the projects on t
 * [PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
 * [Pentesting](https://github.com/enaqx/awesome-pentest)
 * [Reversing](https://github.com/tylerha97/awesome-reversing)
-* [Security](https://github.com/sbilly/awesome-security)
+* [Security](https://github.com/paulveillard/cybersecurity)
 * [Static Analysis](https://github.com/analysis-tools-dev/static-analysis)
 * [Threat Detection](https://github.com/0x4D31/awesome-threat-detection)
 * [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
