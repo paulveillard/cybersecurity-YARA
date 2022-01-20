@@ -354,7 +354,7 @@
 * [statiStrings](https://github.com/Sh3llyR/statiStrings)
     - Strings statistics calculator for YARA rules.
 
-## Services
+## `Services`
 
 * [Hybrid Analysis YARA Search](https://www.hybrid-analysis.com/yara-search)
     - YARA search / hunting from CrowdStrike / Hybrid Analysis, powered by Falcon MalQuery.
@@ -373,7 +373,7 @@
 * [Yara Scan Service](https://riskmitigation.ch/yara-scan/)
     - A simple service to test your Yara rules against a large set of malicious and identified files.
 
-## Syntax Highlighters
+## `Syntax Highlighters`
 
 * Atom: [language-yara](https://github.com/blacktop/language-yara)
 * Emacs: [yara-mode](https://github.com/binjo/yara-mode)
