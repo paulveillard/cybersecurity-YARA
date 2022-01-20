@@ -4,7 +4,7 @@
 > An ongoing collection of awesome tools and frameworks, best security software practices, libraries, learning tutorials, frameworks, academic and practical resources about YARA in cybersecurity.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-## Table of Contents
+## `Table of Contents`
 
 * [Rules](#rules)
 * [Tools](#tools)
@@ -15,7 +15,7 @@
 * [Contributing](#contributing)
 * [Just for Fun](http://yaramate.com)
 
-### Legend
+### `Legend`
 
 * :eyes: - Actively maintained, a repository worth watching.
 * :gem: - Novel, interesting, educational, or otherwise stand-out content.
@@ -141,7 +141,7 @@
 * [Yara-Unprotect](https://github.com/fr0gger/Yara-Unprotect)
     - Rules created for the Unprotect Project for detecting malware evasion techniques.
 
-## Tools
+## `Tools`
 
 * [AirBnB BinaryAlert](https://github.com/airbnb/binaryalert)
     - Open-source serverless AWS pipeline where any file uploaded to an S3 bucket is immediately scanned with a configurable set of YARA rules.
